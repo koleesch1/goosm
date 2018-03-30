@@ -1,0 +1,5 @@
+/vendor
+/.vscode
+/src/vendor
+/src/debug
+/src/main
